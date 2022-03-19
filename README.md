@@ -1,5 +1,5 @@
 # SK Weather App:-
-Solo Project Build to get weather data as per users location or User can also search for their respective city or they can also pick up any location from the provoided google map.
+Solo Project Build to get weather data as per users location or User can also search for their respective city or they can also pick up any location from the provided google map.
 
 **Links for reference :**
 
